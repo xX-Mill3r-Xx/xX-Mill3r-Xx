@@ -10,6 +10,7 @@
 
 ![Miller GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mill3r-Xx&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mill3r-Xx&layout=compact)](https://github.com/xX-Mill3r-Xx/github-readme-stats)
 ## Meus Estudos
 <div stile = "display: inline_block"><br/>
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
