@@ -1,5 +1,5 @@
-### Estudande, back-end C#(Junior);
-
+### Estudande, back-end C#, Java, JavaScript;
+### Game Dev Unity;
 ### Console.WriteLine("Hello, World"); 😁😎...
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unknown_profile369/)
