@@ -12,7 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mill3r-Xx&layout=compact)](https://github.com/xX-Mill3r-Xx/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xX-Mill3r-Xx&repo=github-readme-stats)](https://github.com/xX-Mill3r-Xx/github-readme-stats)
 
 ## Meus Estudos
 <div stile = "display: inline_block"><br/>
