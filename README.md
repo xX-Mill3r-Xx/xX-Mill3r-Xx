@@ -6,10 +6,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/millermx043)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miller-martins-3246b9210/)
 
-![Miller GitHub stats](https://github-readme-stats.vercel.app/api?username=xX-Mill3r-Xx&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mill3r-Xx&layout=compact)](https://github.com/xX-Mill3r-Xx/github-readme-stats)
-
 ## My Skills
 <div stile = "display: inline_block"><br/>
  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
