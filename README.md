@@ -35,7 +35,6 @@ I'm also a game developer with the Unity platform and a Digital Artist.
 <div stile = "display: inline_block"><br/>
 
 ![logo](img/LogoM.svg)
-![logoM](img/new-logo.svg)
 <div>
 Miller M Vasco
 
