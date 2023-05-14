@@ -5,8 +5,6 @@
 
 I'm also a game developer with the Unity platform and a Digital Artist.
 
-![image](img/new-logo.png)
-
 ### My social networks
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unknown_profile369/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/millermx043)
