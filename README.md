@@ -1,19 +1,14 @@
 <h1 align="center">Olá, sou o Miller 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor C# | 📊 SQL Server | 🖥️ Windows Forms | 🌐 ASP.NET Core
+  💻 Desenvolvedor C# | 📊 SQL Server | 🖥️ Windows Forms | 🌐 ASP.NET Core
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e explorando o mundo da programação.
-
-- 🎯 Foco em desenvolvimento **Back-End** com **C# e .NET**
-- 🛠️ Experiência com **Windows Forms**, **Dapper**, **Entity Framework**, **ASP.NET Core**, **Crystal Reports**
-- 🗄️ Banco de dados: **SQL Server** com Stored Procedures, Views, Triggers, Relatórios (Crystal Reports)
-- 💡 Sempre buscando aprender novas tecnologias e boas práticas
+Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NET e bancos SQL Server. Tenho experiência com Windows Forms, Dapper, Entity Framework, ASP.NET Core e relatórios em Crystal Reports, além de desafios com CSS e HTML.
 
 ---
 
@@ -31,26 +26,36 @@ Sou um desenvolvedor apaixonado por tecnologia e explorando o mundo da programa�
 
 ### 📌 Projetos em destaque
 
-🔹 [**Sistema de Gestão de Estoque**](https://github.com/xX-Mill3r-Xx/Gerenciador-de-estoques)  
-> Aplicação completa com CRUD e filtros dinâmicos usando Windows Forms e SQL Server. _Futuramente relatórios em Crystal Reports_
+- 🔹 [**Gerenciador‑de‑estoques**](https://github.com/xX-Mill3r-Xx/Gerenciador-de-estoques)  
+  CRUD completo com filtros dinâmicos em Windows Forms e SQL Server; planejando relatórios com Crystal Reports.
+
+- 🖼️ [**Manipulador_De_Imagens**](https://github.com/xX-Mill3r-Xx/Manipulador_De_Imagens)  
+  Estudos sobre processamento de imagens usando C# e Windows Forms.
+
+- 🧰 [**PacFerramentas**](https://github.com/xX-Mill3r-Xx/PacFerramentas)  
+  Biblioteca com ferramentas utilitárias para simplificar tarefas em C#.
+
+- 🎨 [**frontendMentor‑profile‑card‑component_Challenge**](https://github.com/xX-Mill3r-Xx/frontendMentor-profile-card-component_Challenge)  
+  Implementação do desafio de cartão de perfil com CSS moderno.
+
+- ❓ [**frontendMentor‑faq‑accordion‑card_Challenge**](https://github.com/xX-Mill3r-Xx/frontendMentor-faq-accordion-card_Challenge)  
+  Solução do desafio de acordeão FAQ com HTML semântico.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xX-Mill3r-Xx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xX-Mill3r-Xx&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
 ### 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/miller-martins-95bab5310/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/miller-martins-95bab5310/)
 
 ---
 
-⭐️ **Sinta-se à vontade para dar uma estrela em algum projeto que você curtir!**
-
-
+⭐️ **Se gostou de algum projeto, não deixe de dar uma estrela!**
