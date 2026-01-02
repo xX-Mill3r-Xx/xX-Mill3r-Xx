@@ -41,8 +41,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NE
 - ❓ [**frontendMentor‑faq‑accordion‑card_Challenge**](https://github.com/xX-Mill3r-Xx/frontendMentor-faq-accordion-card_Challenge)  
   Solução do desafio de acordeão FAQ com HTML semântico.
 
-- 📚 [**Principios S.O.L.I.D**](https://github.com/xX-Mill3r-Xx/Principios_S.O.L.I.D) 
+- 📚 [**Principios S.O.L.I.D**](https://github.com/xX-Mill3r-Xx/Principios_S.O.L.I.D)  
   Meus estudos sobre os principios S.O.L.I.D.
+
+- 📚 [**Curso C# Completo e Profissional**](https://github.com/xX-Mill3r-Xx/CursoCSharp_GabrielArtigas)  
+  Curso E Aprendizado em C# (Em andamento).
 
 ---
 
