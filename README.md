@@ -26,11 +26,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NE
 
 ### 📌 Projetos em destaque
 
-- 🏗️ [**Course-Arquitetura-Dotnet**](https://github.com/xX-Mill3r-Xx/Course-Arquitetura-Dotnet)  
-  Estudando sobre como criar arquiteturas em camadas com .NET.
-
-- 📚 [**Principios_S.O.L.I.D**](https://github.com/xX-Mill3r-Xx/Principios_S.O.L.I.D)  
-  Estudando sobre os principios S.O.L.I.D.
+- 🏗️ [**Fluxora**](https://github.com/xX-Mill3r-Xx/Fluxora-downloads)  
+  Sistema de gestão comercial
 
 ---
 
