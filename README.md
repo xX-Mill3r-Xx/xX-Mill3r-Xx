@@ -31,6 +31,10 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NE
 
 ---
 
+### ❤️ Pagina Fluxora
+
+- 🔗 [Fluxora | Gestão Comercial](https://fluxora-site-agi.pages.dev/)
+
 ### 📈 GitHub Stats
 
 <p align="center">
