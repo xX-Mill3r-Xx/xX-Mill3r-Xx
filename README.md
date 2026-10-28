@@ -26,19 +26,13 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NE
 
 ### 📌 Projetos em destaque
 
-- 🏗️ [**Fluxora**](https://github.com/xX-Mill3r-Xx/Fluxora-downloads)  
-  Sistema de gestão comercial
+- 🏗️ [**Fluxora**](https://github.com/xX-Mill3r-Xx/Fluxora-downloads) Sistema de gestão comercial
 
-### ❤️ Pagina Fluxora
+- 🔗 [Fluxora | Gestão Comercial](https://fluxora-site-agi.pages.dev/) Pagina Oficial do Fluxora
 
-- 🔗 [Fluxora | Gestão Comercial](https://fluxora-site-agi.pages.dev/)
+- 🕹️[Orbita - O resgate de Sayumi](https://github.com/xX-Mill3r-Xx/Orbita-downloads) Game desenvolvido em .NET C# a partir de engine proprietária.
 
-### 👾 Meus Games
-
-- 🕹️[Orbita - O resgate de Sayumi](https://github.com/xX-Mill3r-Xx/Orbita-downloads)
-### 📚 Curso de SQL
-
-- 📄 [Curso SQL Na Prática](https://github.com/xX-Mill3r-Xx/Curso-SQL-Na-Pratica)
+- 📄 [Curso SQL Na Prática](https://github.com/xX-Mill3r-Xx/Curso-SQL-Na-Pratica) Curso de SQL Server
 
 ### 📈 GitHub Stats
 
