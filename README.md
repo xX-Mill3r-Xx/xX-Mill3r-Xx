@@ -29,19 +29,16 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em Back‑End com C#, .NE
 - 🏗️ [**Fluxora**](https://github.com/xX-Mill3r-Xx/Fluxora-downloads)  
   Sistema de gestão comercial
 
----
-
 ### ❤️ Pagina Fluxora
 
 - 🔗 [Fluxora | Gestão Comercial](https://fluxora-site-agi.pages.dev/)
 
----
-
 ### 👾 Meus Games
 
 - 🕹️[Orbita - O resgate de Sayumi](https://github.com/xX-Mill3r-Xx/Orbita-downloads)
+### 📚 Curso de SQL
 
----
+- 📄 [Curso SQL Na Prática](https://github.com/xX-Mill3r-Xx/Curso-SQL-Na-Pratica)
 
 ### 📈 GitHub Stats
 
